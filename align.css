@@ -19,3 +19,17 @@ img{
 	margin:auto;
 
 }
+.floatimg{
+	width: 200px;
+	height: 100px;
+	float:right;
+}
+.clearfix{
+	overflow:hidden;
+}
+.footer{
+	text-align:center;
+	background-color: red;
+	padding: 20px;
+	font-size: 18px;
+}
